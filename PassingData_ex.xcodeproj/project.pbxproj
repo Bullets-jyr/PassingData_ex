@@ -16,6 +16,7 @@
 		C8B382902945E1B800BD6D26 /* PassingData_exTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B3828F2945E1B800BD6D26 /* PassingData_exTests.swift */; };
 		C8B3829A2945E1B800BD6D26 /* PassingData_exUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B382992945E1B800BD6D26 /* PassingData_exUITests.swift */; };
 		C8B3829C2945E1B800BD6D26 /* PassingData_exUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B3829B2945E1B800BD6D26 /* PassingData_exUITestsLaunchTests.swift */; };
+		C8B382A92945E2C300BD6D26 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B382A82945E2C300BD6D26 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C8B382952945E1B800BD6D26 /* PassingData_exUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PassingData_exUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8B382992945E1B800BD6D26 /* PassingData_exUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassingData_exUITests.swift; sourceTree = "<group>"; };
 		C8B3829B2945E1B800BD6D26 /* PassingData_exUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassingData_exUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C8B382A82945E2C300BD6D26 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				C8B382782945E1B700BD6D26 /* AppDelegate.swift */,
 				C8B3827A2945E1B700BD6D26 /* SceneDelegate.swift */,
 				C8B3827C2945E1B700BD6D26 /* ViewController.swift */,
+				C8B382A82945E2C300BD6D26 /* DetailViewController.swift */,
 				C8B3827E2945E1B700BD6D26 /* Main.storyboard */,
 				C8B382812945E1B800BD6D26 /* Assets.xcassets */,
 				C8B382832945E1B800BD6D26 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				C8B3827D2945E1B700BD6D26 /* ViewController.swift in Sources */,
 				C8B382792945E1B700BD6D26 /* AppDelegate.swift in Sources */,
 				C8B3827B2945E1B700BD6D26 /* SceneDelegate.swift in Sources */,
+				C8B382A92945E2C300BD6D26 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
